@@ -1,0 +1,28 @@
+1. Jelaskan grid system yang diterapkan oleh Bootstrap!
+2. Sebutkan Bootstrap component lainnya yang tersedia dan penjelasan singkat kegunaan
+masing-masing component tersebut (10 komponen)!
+3. Sebutkan dan jelaskan 5 fungsionalitas Javascript yang telah disediakan oleh Bootstrap selain
+Modal! 
+
+Jawaban:
+
+1. Grid System yang digunakan oleh Bootstrap ini memiliki fungsi untuk mengatur tampilan / UI dari suatu perangkat secara dinamis dan responsive. Ukuran grid bisa menyesesuaikan dengan ukuran layar device yang digunakan saat itu secara otomatis. Sistem grid juga memiliki aturan dasar yang terdiri dari class-class yang terstruktur.
+
+2. Komponen yang disediakan bootstrap sangat banyak dan bervariasi:
+
+- Navbar = pengaturan navigasi yang ditujukan untuk melakukan pindah halaman atau menuju page tertentu.
+- Alerts = mirip seperti window.alert tetapi bisa lebih di customize dan diatur sesuai kebutuhan.
+- Progress bar = tampilannya seperti loading pada progress yang mempresentasikan proses.
+- Dropdowns = Bisa menentukan pilihan yang sudah disediakan dengan cara memilih salah satu.
+
+3.  Javascript pada bootstrap:
+
+- Alert messages = mirip seperti alert yang disediakan default oleh html tetapi lebih bisa di custome dari segi design dan fungsional yang diatur oleh jQuery.
+
+- Collapsible Panels = panel ini memiliki kemiripan dengan accordian pada umumnya tetapi memiliki bentuk yang lebih indah ketimbang jQuery biasa.
+
+- Accordian = menampilkan nformasi terkait header yang sudah disiapkan. 
+
+- Carausel = Menampilkan slideshow dari gambar-gambar yang disajikan dengan pergerakan yang bagus.
+
+- Tooltips dan Popovers = memberikan informasi tambahan terkait tombol, teks atau element lainnya saat cursor hover diatasnya.
